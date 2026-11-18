@@ -1,0 +1,14 @@
+/*.md
+!/README.md
+
+.env
+**/.env
+**/vendor/
+**/node_modules/
+**/build/
+**/.dart_tool/
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
